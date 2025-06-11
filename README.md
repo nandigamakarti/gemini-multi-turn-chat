@@ -50,11 +50,6 @@ This project creates chat applications that:
      GOOGLE_API_KEY=your_actual_api_key_here
      ```
 
-### Running the Web Application
-
-```bash
-streamlit run app.py
-```
 
 ### Running the Console Application
 
